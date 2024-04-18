@@ -1,7 +1,6 @@
 /* ANIM-js CONFIG */
 /*
 GUIA DE USO:
-
 1. Importa el objeto Anim en tu archivo JavaScript utilizando la instrucción "import":
 
     import Anim from './ruta/al/archivo/Anim.js';
