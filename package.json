@@ -1,0 +1,20 @@
+{
+  "name": "anim-js",
+  "version": "1.0.0",
+  "description": "Bibloteca de animaciones con javascript",
+  "main": "anim.js",
+  "keywords": [
+    "animaciones",
+    "transiciones",
+    "animations"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Anim-js/anim-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vicente Roa",
+  "license": "MIT"
+}
