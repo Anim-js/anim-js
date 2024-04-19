@@ -1,8 +1,8 @@
 {
-  "name": "anim-js",
-  "version": "1.0.0",
+  "name": "animt-js",
+  "version": "1.0.1",
   "description": "Bibloteca de animaciones con javascript",
-  "main": "src/anim.js",
+  "main": "src/animt.js",
   "keywords": [
     "animaciones",
     "transiciones",
